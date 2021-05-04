@@ -1,5 +1,5 @@
 
-[
+{
   {
     "id": "1",
     "first_name": "First1",
@@ -175,4 +175,4 @@
     "uid": "25",
     "email": "email25@mail.com"
   }
-]
+}
