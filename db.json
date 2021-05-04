@@ -13,26 +13,5 @@
     "last_name": "Last2",
     "uid": "2",
     "email": "email2@mail.com"
-  },
-  "authtoken_3" : {
-    "id": "3",
-    "first_name": "First3",
-    "last_name": "Last3",
-    "uid": "3",
-    "email": "email3@mail.com"
-  },
-  "authtoken_4" : {
-    "id": "4",
-    "first_name": "First4",
-    "last_name": "Last4",
-    "uid": "4",
-    "email": "email4@mail.com"
-  },
-  "authtoken_5" : {
-    "id": "5",
-    "first_name": "First5",
-    "last_name": "Last5",
-    "uid": "5",
-    "email": "email5@mail.com"
   }
 }
